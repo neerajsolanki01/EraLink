@@ -82,10 +82,10 @@ def chatbot_response(query, data_file_paths):
 # Example usage
 data_file_paths = [
     
-    'blog\\BrainData\\physics-a-level-definitions.txt',
-    'blog\\BrainData\\qa_data.txt',
-    'blog\\BrainData\\gk_que.txt',
-    'blog\\BrainData\\interesting.txt',
+    'eralink\\BrainData\\physics-a-level-definitions.txt',
+    'eralink\\BrainData\\qa_data.txt',
+    'eralink\\BrainData\\gk_que.txt',
+    'eralink\\BrainData\\interesting.txt',
     # 'additional-file.txt',
     # Add more file paths here
 ]
