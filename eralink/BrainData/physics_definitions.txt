@@ -1,7 +1,3 @@
-# Physics
-# Q: State Newton's First Law of Motion
-# A: A body continues in its unaccelerated state of motion unless acted upon by an external force (or a body stays at rest or continues to move with a constant velocity unless.)
-
 Q: Newton Second Law of motion
 A: The second law of motion states that, the force acting on the body is equal to the product of its mass and acceleration.
 
