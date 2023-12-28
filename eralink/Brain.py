@@ -3,6 +3,7 @@ import random
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import pyjokes
+import os
 
 def load_data(file_paths):
 
@@ -80,15 +81,16 @@ def chatbot_response(query, data_file_paths):
         return generate_answer(query, data_file_paths)
 
 # Example usage
+base_path = os.path.dirname(os.path.abspath('eralink'))
 data_file_paths = [
-    
-    # 'eralink\\BrainData\\physics_definitions.txt',
-    'eralink\\BrainData\\qa_data.txt',
-    'eralink\\BrainData\\gk_que.txt',
-    'eralink\\BrainData\\interesting.txt',
+    os.path.join(base_path, 'eralink', 'BrainData', 'physics_definitions.txt'),
+    os.path.join(base_path, 'eralink', 'BrainData', 'qa_data.txt'),
+    os.path.join(base_path, 'eralink', 'BrainData', 'gk_que.txt'),
+    os.path.join(base_path, 'eralink', 'BrainData', 'interesting.txt'),
     # 'additional-file.txt',
     # Add more file paths here
 ]
+
 
 # Comment below code
 

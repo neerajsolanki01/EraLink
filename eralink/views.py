@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-
+import os
 # import sk learn chatbot
 from eralink.Brain import chatbot_response
 
@@ -23,11 +23,12 @@ def login(request):
 
 def getResponse(request):
     try:
+        base_path = os.path.dirname(os.path.abspath('eralink'))
         data_file_paths = [
-            # 'eralink\\BrainData\\physics_definitions.txt',
-            'eralink\\BrainData\\qa_data.txt',
-            'eralink\\BrainData\\gk_que.txt',
-            'eralink\\BrainData\\interesting.txt',
+            os.path.join(base_path, 'eralink', 'BrainData', 'physics_definitions.txt'),
+            os.path.join(base_path, 'eralink', 'BrainData', 'qa_data.txt'),
+            os.path.join(base_path, 'eralink', 'BrainData', 'gk_que.txt'),
+            os.path.join(base_path, 'eralink', 'BrainData', 'interesting.txt'),
             # 'additional-file.txt',
             # Add more file paths here
         ]
