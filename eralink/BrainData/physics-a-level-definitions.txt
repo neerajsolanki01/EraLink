@@ -1,0 +1,375 @@
+# Physics
+# Q: State Newton's First Law of Motion
+# A: A body continues in its unaccelerated state of motion unless acted upon by an external force (or a body stays at rest or continues to move with a constant velocity unless.)
+
+Q: Newton Second Law of motion
+A: The second law of motion states that, the force acting on the body is equal to the product of its mass and acceleration.
+
+Q: Newton Third Law of motion
+A: Newton third law states that, there is an equal and opposite reaction for every action.
+
+Q: law of conservation of energy
+A: The law of conservation of energy states that, energy can neither be created nor destroyed.
+
+Q: definition of scalar quantity
+A: A scalar quantity is defined as the physical quantity with only magnitude and no direction. Examples are Mass, Speed, Distance, Time, Volume, Density and Temperature.
+
+Q: definition of vector quantity
+A: A vector quantity is defined as the physical quantity that has both directions as well as magnitude. Examples are Linear momentum, Acceleration, Displacement, Momentum, Angular Velocity, Force, Electric field and Polarization.
+
+Q: definition of mass, what is mass
+A: The amount of matter present in any object or body is called mass. Represented by M.And Mass is equal to, volume into density. And the S.I. unit of mass is  kilogram.
+
+Q: definition of weight , define weight or what is weight
+A: Weight is defined as the amount of force acting on the mass of an object because of acceleration due to gravity. Represented by W. And Weight is equal to, mass into acceleration due to gravity. The S.I. unit of weight is Newton.
+
+Q: define speed , define or what is speed
+A: Speed is the rate of change of distance. It is Scalar Quantity. Speed equals to distance upon time. Speed is measured in meter per second.
+
+Q: what is velocity or defination of velocity or define velocity
+A: Velocity is the rate of change of displacement. It is Vector Quantity. Velocity equals to displacement upon time. Velocity is measured in meter per second.
+
+Q: what is  distance or defination of distance or define distance
+A: The complete length of the path between any two points is called distance. Distance is a scalar quantity as it only depends upon the magnitude and not the direction. Distance equals to speed into time. S.l. unit of distance is meter.
+
+Q: what is displacement or defination of displacement or define displacement
+A: Displacement is the direct length between any two points when measured along the minimum path between them. Displacement is a vector quantity as it depends upon both magnitude and direction. Displacement equals to velocity into time. S.I. unit of displacement is meter.
+
+Q: what is time or defination of time or define time
+A: The measured or measurable period during which an action, process, or condition exists. AND its S.I. unit is second.
+
+Q: what is volume or defination of volume or define volume
+A: A volume is simply defined as the amount of space occupied by any three-dimensional solid. These solids can be a cube, a cuboid, a cone, a cylinder or a sphere. Volume of a solid is measured in cubic units.
+
+Q: what is densityor defination of density or define density
+A: Density, volumetric mass density or specific mass is defined as the, substances mass per unit of volume. The symbol most often used for density is rho. Density equals to mass per unit volume. Though the S.I. unit of density is kilogram per meter cube. And its reciprocal is specific volume.
+
+Q: what is temperature or defination of temperature or temperature
+A: Temperature is the measure of hotness or coldness of a body measured using Celsius, Kelvin, and Fahrenheit scales.The change in temperature is based on the amount of heat released or absorbed. The S.I. unit of temperature is Kelvin.
+
+Q: what is  linear momentum or defination of linear momentum or linear momentum
+A: Linear momentum is the vector quantity and defined as the product of the mass of an object, m, and its velocity, v. The units of linear momentum are kilogram meter per second.
+
+Q: what is acceleration or defination of acceleration or define acceleration
+A: The rate of change of velocity with respect to time. The S.I. unit of acceleration is meter per second square.
+
+Q: what is momentum or defination of momentum or define momentum
+A: The ability to keep increasing or developing the force that makes something move faster and faster. Momentum equals to mass into velocity. S.I. Unit is Kilogram meter per second.
+
+Q: what is angular velocity or defination of angular velocity or define angular velocity
+A: Angular velocity is the vector measure of the rotation rate, which refers to how fast an object rotates or revolves relative to another point. Angular velocity is represented by the Greek letter omega (w, sometimes Q). It is measured in angle per unit time; hence, the S.I. unit of angular velocity is radians per second.
+
+Q: what is force or defination of force or define force
+A: Push or pull of an object is considered a force. And the push or pull on an object with mass causes it to change its velocity. Force is an external agent capable of changing a body's state of rest or motion. It has a magnitude and a direction. The direction towards which the force is applied is known as the direction of the force. The S.I. unit of force is Newton.
+
+Q: what is electric field or defination of electric field or define electric field
+A: A region around a charged particle or object within which a force would be exerted on other charged particles or objects. An electric field is also described as the electric force per unit charge. E equals to F by Q , where, E is the electric field. F is a force. And Q is the charge.
+
+# Start
+Q: State Newton First Law of motion?
+A: Newton first law states that, a body at rest or uniform motion will continue to be at rest or uniform motion until and unless a net external force acts on it.
+
+Q: State Newton's Second Law of Motion
+A: The rate of change of momentum (or the acceleration) of a body is proportional to the net force acting on the body and in the same direction as the force.
+ 
+Q: State Newton's Third Law of Motion
+A: To every force exerted by a body A to a body B (action) there is an equal and opposite force exerted by body B to body A (reaction)
+ 
+Q: What features do the action-reaction force pairs have?
+A: They act on different bodies. They are of the same nature. They are equal in magnitude but opposite in direction. They act along the same line.
+
+Q: what is or defination or Define Momentum
+A: Momentum is a vector quantity that is equal to the product of the mass and the velocity of a body.
+ 
+Q: what is or defination or Define Impulse
+A: Impulse is a chunk of momentum. It is usually associated with the change of momentum given to a body upon impact with another body.
+ 
+Q: What does the principle of Conservation of Momentum state?
+A: In a system of bodies when there is no external force acting the total momentum stays unchanged.
+ 
+Q: Define the moment of a force
+A: Moment of a force about a point is the product of the force and the minimum distance of the axis of the force from that point. Moments have direction. They are clockwise or anticlockwise.
+ 
+Q: What does the principle of Moments state?
+A: For a body to be in rotational equilibrium the sum of the moments about any point on the body must be zero.
+ 
+Q: What conditions must be met for a body to be in equilibrium?
+A: The sum of the forces acting on the body and the sum of the moments of those forces about any point on the body must be zero.
+
+Q: Define Young's Modulus
+A: Young's modulus is the ratio of stress over strain exerted on a body that has not exceeded the elastic limit.
+ 
+Q: Define Tensile Strain and Tensile Stress
+A: Tensile strain is the ratio of the extension over the original unstretched length for a body under tensile stress. Tensile stress is the force per cross sectional area of a body being stretched.
+ 
+Q: What does the area under the Stress - Strain graph of a wire being stretched represent?
+A: It represents the energy stored per unit volume of the material for a particular strain.
+ 
+Q: what is or defination or Define Upthrust
+A: Upthrust is a force that is experienced when a denser body finds itself in a less dense liquid or gas and is equal to the weight of the displaced liquid or gas and acting in a direction opposite to the gravitational attraction.
+ 
+Q: State Stoke's Law of Viscous drag
+A: The force of viscous drag opposes the motion of a spherical body in a viscous fluid and is directly proportional to the speed and the radius of the sphere as well as the coefficient of viscosity of the fluid. The law applies to laminar flow only.
+ 
+Q: Define Laminar Flow
+A: Laminar flow is the flow of a liquid where each point along the flow has a constant velocity over time. Or, laminar flow is the flow of a liquid where the flow can be considered to exist in layers that do not mix and maintain a constant speed over time.
+ 
+Q: Define Turbulent Flow
+A: Turbulent flow is the flow of a liquid where the velocity of flow at each point in the flow undergoes sudden and unpredictable changes. The flow is chaotic and also has eddies.
+ 
+Q: what is or defination or Define Energy
+A: Energy is a scalar quantity that describes the work done or the work that can be done by a body due to its state of motion or due to its temperature or due to its molecular structure.
+ 
+Q: what is or defination or Define Acceleration
+A: Acceleration is a vector quantity equal to the rate of change of velocity
+ 
+# Waves
+Q: defination or define or What is a wave?
+A: A wave is an oscillation that travels in space and transfers energy to a remote point
+
+Q: What is a progressive wave?
+A: A progressive wave is one that travels (propagates) in space. It is an oscillatory motion where nodes and antinodes propagate with the speed of the wave in a certain direction in space.
+ 
+Q: What is a standing wave?
+A: A standing wave is a stationary wave that is made up from a progressive wave and its reflection. In a standing wave the nodes and antinodes are stationary (they do not change with time)
+ 
+Q: Define transverse waves and longitudinal waves giving two examples for both
+A: Tranverse waves are those waves where the oscillations of the medium in which the wave is transmitted oscillate at right angles to the direction of propagation, (light waves, sea waves). Longitudinal waves are those waves where the oscillations of the medium in which the wave is transmitted are parallel to the direction of propagation (sounf waves, seismic waves)
+
+Q: List the types of electromagnetic radiation and quote typical wavelengths
+A: Radio - 20 m , Microwave - 5 cm , Infra Red - 2 mm , Visible -  600 nm , Ultra Violet - 1 nm X-rays - 0.1 nm  , y-rays - 1 pm
+ 
+Q: Explain the principle of superposition of waves
+A: When two waves of the same nature meet in space then at any point in the space that they meet the resulting oscillation is the net sum of the two oscillations that would be caused by the individual waves.
+ 
+Q: What is interference?
+A: Interference is when two waves overlap and produce a pattern of reinforcements and cancellations at various different places.
+
+Q: What conditions must be met for two waves to produce visible interference?
+A: They must be of the same nature and must originate from coherent sources
+ 
+Q: What makes two sources coherent?
+A: They must have the same frequency and a constant phase difference
+ 
+Q: Define refraction of waves
+A: Refraction is the change in speed of propagation of the wave when the wave enters a different medium.
+ 
+Q: Define the refractive index of a transparent material
+A: This is ratio of the sine of the angle of incidence to the sine of the angle of refraction with both angles measured from the normal to the surface
+ 
+Q: What is diffraction of waves?
+A: Diffraction is the property of waves to bend around obstacles with this being more prominent when the size of the obstacle is comparable to the wavelength of the wave
+ 
+Q: Give two phenomena that demonstrate the diffraction of light
+A: Young's double slit where fringes are observed and diffraction grating where maxima are observed at specific angles from the normal to the grating slide.
+ 
+Q: Define Polarisation of light
+A: Polarisation is a phenomenon that occurs only in transverse waves and it describes a wave where the oscillations of the medium exist only in one direction normal to the direction of propagation (or you may say in one plane which includes the direction of propagation).
+ 
+Q: Give an example of a polarized wave.
+A: All light that is reflected from a surface (such as water or glass is) partially or fully plane polarized. Microwaves satellite TV signals that are emitted from satellites
+ 
+Q: How can you detect whether light is polarized?
+A: Using a Polaroid slide and rotating it by 90% expecting to observe a minimum. If a minimum is observed then the light is plane polarized. If the minimum is zero then the light is totally plane polarized.
+ 
+ 
+Q: What is the Doppler effect?
+A: It is a change in the frequency received by a stationary observer when the wave source moves toward (higher frequency) or away (lower frequency) from the observer.
+ 
+Q: Describe an application of the Doppler Effect
+A: Detecting the speed of vehicles using a microwave radar (microwave frequency is preferred to radio frequency in order to be able to target a specific car)
+ 
+Q: Describe Purse Echo techniques in Medical Diagnostics
+A: Using Ultrasound medics can image the inside of the body using the fact  that the ultrasound gets reflected at every boundary between different tissue. (eg fat-musclebone-veins-organs-fetus etc). By measuring the delay in reflection of the each pulse at every boundary a computer can produce an image of the body below the ultrasound probe. The typical frequency used in such techniques is 1 to 4 MHz. Ultrasound can also be used with the Doppler effect to detect and measure blood flow in arteries or veins.
+ 
+# Electricity
+ 
+Q: What is the minimum quantity of charge that can be found in nature.? State its magnitude in Coulombs
+A: The least charge that can be found in nature (as discovered by Millikan) is the charge of an electron. This is 1.6 x 10 -19 C
+ 
+Q: what is or defination or Define emf
+A: The electromotive force (emf) of a cell is the energy per Coulomb that passes through the cell and is delivered to the cirtcuit. For example a 5 Volt emf means that 5 joules of energy are supplied to the circuit by the cell for every Coulomb that is supplied to the circuit.
+ 
+Q: Define Potential Difference
+A: Potential Difference is the energy per Coulomb that is transferred to electrical component when charge flows thought it. This transferred energy usually is in the form of heat (in a resistor)
+ 
+Q: what is or defination or Define Resistance - Ohms Law
+A: Resistance is the ratio of potential difference V across a component divided by the current I flowing through the component.  R  =  V/I. It is measured in Ohms
+
+Q: what is or defination or Define Drift speed
+A: It is the average speed with which actual electrons or (other carriers) move in a wire in which a current flows.  (Remember here the transport equation I = nqvA  where n is the number of free carriers (usually electrons) per unit volume in the material from which the wire is made)
+ 
+Q: defination or define or What is resistivity ?
+A: Resistivity is a measure of the resistance of a specific material. It is defined as the resistance per unit length of a conductor of unit cross-sectional area made from the specific material. Resistivity usually depends on temperature (except in constantan) and almost all conductors become superconductors at low enough temperatures. Recent technological progress has been achieved with the discovery of materials that become superconducting at temperatures as high as 120 K.
+
+Q: what is or defination or define State Kirchoff's First Law
+A: The total current into any point (or junction) in a circuit is equal to the total current out of that point (or junction). This law follows the conservation of charge - in that charge cannot be created or destroyed.
+
+Q: what is or defination or define State Kirchoff's Second Law
+A: The total sum of emfs in a closed path in a circuit is equal to the total sum of potential difference drops in the path. This follows from the conservation of energy.
+ 
+Q: What do you understand by the potential divider rule in circuits?
+A: The voltages across two resistors connected is series are proportional to their respective resistances:  V1/V2 = R1/R2.
+ 
+Q: Define the internal resistance of a source
+A: The internal resistance is a modeling concept that accounts for the fact that when a current is drawn from an emf its voltage drops. Usually in circuits the load resistance is much larger than the source resistance. However, maximum power transfer from source to load occurs when the load resistance is equal to the source resistance. (at this situation, though only half the power drawn from the source goes to the load with the other half being consumed as heat in the battery's source resistance)
+ 
+Q: Describe the effect of temperature in the conduction of metals and semiconductors
+A: In metals as temperature rises so does the vibration of atoms and this makes the flow of electrons harder which reduces conductivity (or increases resistivity). In semiconductors where conduction electrons are freed from atoms there are more such electrons freed as the temperature rises and this causes conductivity to increase with temperature (or resistivity to decrease with temperature - eg  thermistor)
+ 
+ 
+ 
+# Light
+ 
+Q: what is or defination or Define Radiation Flux
+A: Light intensity at a specific point is measured as the power per unit area received at a specific point and is referred to as radiation flux F. It is measured in W/m2. To determine F at a point a distance r away from a source divide the power at the point of the emission (power of the source) by 4pr2., where is the distance of the point from the source.
+ 
+Q: Explain what observations lead to the discovery of the particle nature of light
+A: The fact that light above a certain minimum frequency only could release photoelectrons from a certain metal could not be explained by the wave nature of light and this lead to the quantum theory of light which states that light energy comes in quanta known as photons each of which has an energy equal to  h.f
+ 
+Q: Why does conventional wave theory fail to explain the photoelectric effect?
+A: If light is a wave then a large enough amplitude for any given frequency should carry enough energy to cause the release of photoelectrons. Again a wave would accumulate enough energy over time to cause the release of photoelectrons. Neither actually is true and this lead Einstein to porpose the particle theory of light .
+ 
+Q: what is or defination or Define Threshold frequency
+A: This is the minimum frequency of the incident radiation that will cause the emission of photoelectrons from a certain material.
+ 
+Q: what is or defination or Define Work Function
+A: This is the minimum energy of oncoming photons that will cause surface electrons to be released from a specific material  - Remember the work function is associated with a specific material.
+ 
+Q: what is or defination or Define the electronvolt
+A: It is a small amount of energy equal to 1.6x 10-19 Joules
+ 
+Q: What is the stopping voltage?
+A: It is the negative voltage that needs to be applied to the anode of a photoelectric cell to stop released electrons from reaching the anode.  It can be determined from        Vs.e = h.f-F     (actually the stopping voltage times the charge of an electron is equal to the maximum kinetic energy of released photoelectrons)
+ 
+Q: What is an emission spectrum ?
+A: It is the set of coloured lines (specific frequencies) against a black background that corresponds to specific energy transitions of electrons in excited atoms. The emission spectrum can extend beyond the visible spectrum. The emission spectrum of a every element is different and therefore the emission spectrum from an excited substance can be used to identify that substance.
+ 
+Q: What is an absorption spectrum ?
+A: It is a continuous range of colours including al the possible frequencies where only specific colours (or frequencies) are missing and are replaced by black lines. These lines are characteristic of the gas that has absorbed specific frequencies from the emission of panchromatic light (by say a glowing tungsten filament).
+ 
+Q: defination or define  or What are energy levels ?
+A: They are specific energy levels that electrons can occupy in an atom. These are different for every element. Usually electrons occupy the ground state which is the lowest energy level that they can occupy and it corresponds to an unexcited state of the atom. Between the ground state and the ionization state where electrons are have escaped from the atom there are various intermediate but distinct energy states. When electrons are raised to these intermediate states they will fall to lower states and eventually to the ground state giving off photons of specific frequencies that correspond to the specific transitions.
+ 
+Q: defination or define or What is laser light ?
+A: Laser light is light that is the result of simultaneous energy transitions by a very large number of atoms. This makes all photons to be in phase and cause a coherent emission which makes laser light so strong.  In ordinary light photons are not in phase in laser light they are in phase.
+ 
+Q: State Newton's 2nd Law of Motion in terms of momentum
+A: The rate of change of momentum is directly proportional to the net force that applies to the body and in the same direction as the force
+
+
+# Circular Motion
+  
+Q: what is or defination or Define the Radian
+A: The Radian is an angle that subtends an arc of length equal to the radius of the circle.
+ 
+Q: what is or defination or Define Angular Velocity
+A: It is the rate at which angular displacement changes or the angle covered per unit time - it is expressed in rad//s
+
+Q: Why is a body in circular motion continuously accelerating even though the speed v may not change?
+A: Because its velocity is continuously changing direction so it must be accelerating
+ 
+Q: what is or defination or Define Free fall
+A: This is a situation when a body is accelerating under the influence of gravity. Ie when net force is its weight.
+ 
+Q: How can we achieve accelerations greater than g ?
+A: These are achieved as centripetal accelerations:  Rotate something at large enough ?  and you can achieve any accelerations you wish (within practical limitations). Remember that centripetal acceleration is  ?2r   or   v2/r  depending on whether you know ?  or  v.
+ 
+Q: defination or define or What is centripetal force?
+A: It is force that is required to cause a body to perform circular motion. When a body of mass m performs circular motion with uniform angular speed the centripetal force is given by  m?2r   or   mv2/r
+ 
+# Electric and Magnetic Fields
+
+Q: Explain what is meant by a field?
+A: A field is a condition that creates a force in a given space. (There are three commonly known fields - gravitational which produces a force on mass, electric which produces a force of charges and magnetic which produces a force on moving charges)
+ 
+Q: Define Electric Field strength
+A: This is the force per unit charge experienced by a charge in the field. (Units: N/C)
+ 
+
+Q: In which direction does it apply ?
+A: Electric fields due to point charges apply radially from the point. To find the direction place a positive charge and determine which way it would be pushed.
+ 
+Q: What is the potential at a point in an electric field ?
+A: This is the energy per unit charge (unit is the volt) that is required to bring a positive charge from infinity to that specific point in the field.
+ 
+Q: How can you create a uniform electric field?
+A: By applying a constant voltage V to two (metal) plates which are a certain distance  d apart. The electric field between the plates will be uniform (constant) and have a value  E =  V/d     (unit V/m)
+ 
+Q: What are equipotentials?
+A: These are surfaces in space where the electric potential due to an electric field is the same. For example concentric spheres in radial fields or parallel surfaces in between parallel plates are examples of equipotentials.
+ 
+Q: What is special about the value of charge?
+A: It is quantised. It exists in multiples of the electron charge 1.6 x 10-19 C.
+ 
+Q: what is or defination or define or Describe a Capacitor
+A: A capacitor is a device (usually made as two parallel plates separated by a narrow gap) that can store charge.
+ 
+Q: what is or defination or define or Define Capacitance
+A: It is the amount of charge per unit volt that a capacitor can charge  ( C = Q/V)
+ 
+Q: How can you determine the energy stored in a capacitor?
+A: By the following three ways:   E = 1/2QV   or   E = 1/2CV2  or   E = 1/2Q2/C
+ 
+ 
+ 
+# Magnetic Fields
+ 
+Q: How is a magnetic field represented?
+A: By flux lines that which show the direction that a north pole of a compass would point
+ 
+Q: How do we measure magnetic fields?
+A: By the magnetic flux density  B  (Unit the Tesla)
+
+Q: Give a common application of the Bil  force?
+A: The electric motor
+ 
+Q: What does the mass spectrometer do?
+A: It separates and identifies specific elements in a mixture
+ 
+Q: What does the mass spectrometer work?
+A: Vaporised particles of different mass are charged and then they are accelerated and the beam is bent using a magnetic field. Because  Bqv = mv2/r  the ratio  q/m = v/Br and because the mass is particular to the molecules of a specific substance the substance can be identified because it follows a unique radius r to reach a detector that is positioned to receive the particles.
+ 
+Q: What do you understand by Electromagnetic Induction?
+A: When a changing magnetic field links a conductor then an emf is induced in the conductor.  E = - dF/dt    The magnitude of the induced emf is proportional to the rate of change of flux linkage.
+
+Q: Faraday's First Law of Electromagnetic Induction
+A: Whenever a conductor is placed in a varying magnetic field, an electromotive force is induced. If the conductor circuit is closed, a current is induced, which is called induced current.
+
+Q: Faraday's Second Law of Electromagnetic Induction
+A: The induced emf in a coil is equal to the rate of change of flux linkage.
+ 
+Q: Give applications of Faraday's Law
+A: The transformer , The generator
+ 
+Q: Explain how the transformer works
+A: A alternating voltage is applied in the primary coil and this causes an alternating current to flow. This causes an alternating magnetic field in the iron core which also links the secondary coil. The alternating magnetic field induces an emf in the secondary coil. The ratio of the induced emf to the applied voltage is equal to the ratio of the number of turns of the secondary coil to the primary coil:  Vs/Vp = Ns/Np
+ 
+Q: Explain how a dynamo works?
+A: A magnet is caused to rotate in a coil and this causes a changing magnetic field to link the coil thus inducing (generating) and emf.
+ 
+Q: Why would a higher current flow in the primary of the transformer if a dc voltage is applied than when an ac voltage is applied?
+A: With the ac voltage the alternating magnetic field induces a back-emf (one in opposite direction to the voltage that is applied) and this reduced the net voltage and hence the current that flows in the coil
+ 
+Q: State Lenz's Law
+A: The direction of the induced emf in Faraday's Law of Induction is in such a way that the resulting current will oppose the flux change that induces the emf.
+ 
+Q: Give examples of Lenz' Law
+A: A magnet falling a copper tube , Magnetic braking
+ 
+# Particle Physics
+ 
+Q: What is particle scattering
+A: The experiments by Rutherford that fired alpha particles through thin gold foils showing that particle is made up of positively charged nuclei where the mast majority of mass is concentrated and which occupy a small proportion of the atom.
+ 
+Q: What is the de Broglie wavelength?
+A: It is defined as the Planck constant divided by the momentum of a particle. Its real application is in determining the effective wavelength of fast moving electrons (used in crystallography)
+ 
+Q: Why do we use accelerators?
+A: To accelerate charged particles and cause collisions in order to observe nuclear phenomena.
+ 
+Q: What principles do all accelerators use to accelerate particles?
+A: They all use electric fields to accelerate charged particles
+
+# Q:
+# A:

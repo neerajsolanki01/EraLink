@@ -1,0 +1,65 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ERA Link</title>
+
+    
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    
+</head>
+<body>
+    <header>
+        <div class="banner">
+            <img class="logo" src="{% static 'image/logo.jpg' %}" alt="Logo">
+
+            <div class="navbar">
+                <!-- <input type="checkbox" class="menu-toggle"> -->
+                <h1 class="menu-toggle">+</h1>
+                
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="chatbot">ChatBot</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="login">Login</a></li>
+                </ul>
+            </div>
+
+            <div class="content">
+                <h1>ERA Link</h1>
+                <p>This is our official page of ERA Link. Here we are trying to upgrade the technologies.</p>
+                <div>
+                    <a href="chatbot"><button type="button"><span></span>Try Bot</button></a>
+                    <a href="#"><button type="button"><span></span>Subscribe</button></a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <section>
+        <div>
+
+        </div>
+    </section>
+
+
+    <footer>
+        <div>
+            
+        </div>
+    </footer>
+    
+
+    <script>
+        const menuToggle = document.querySelector('.menu-toggle');
+        const navLinks = document.querySelector('.navbar ul');
+
+        menuToggle.addEventListener('click', () => {
+            navLinks.classList.toggle('show');
+        });
+    </script>
+</body>
+</html>
