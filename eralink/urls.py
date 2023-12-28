@@ -17,6 +17,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns # new
+
+
 from . import views
 
 urlpatterns = [
@@ -30,3 +34,6 @@ urlpatterns = [
 
     path('getResponse', views.getResponse, name='getResponse'),
 ]
+
+
+urlpatterns += staticfiles_urlpatterns() # new
