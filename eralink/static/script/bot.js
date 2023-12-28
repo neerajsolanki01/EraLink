@@ -48,25 +48,31 @@ document.addEventListener('DOMContentLoaded', function () {
     
         // Perform an AJAX request to get a response from the server
         const xhr = new XMLHttpRequest();
-        xhr.open('GET', 'getResponse?userMessage=' + userText, true);
+        xhr.open('GET', `/getResponse?userMessage=${encodeURIComponent(userText)}`, true);
         xhr.onreadystatechange = function () {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                const responseHtml = `<div class="chat-content">
-                    <div class="chat-details">
-                        <img src="https://cdn.freebiesupply.com/logos/large/2x/era-4-logo-png-transparent.png" alt="chatbot-img">
-                        <div class="response-content">
-                            <p>${xhr.responseText}</p>
+            if (xhr.readyState === 4) {
+                if (xhr.status === 200) {
+                    const responseHtml = `<div class="chat-content">
+                        <div class="chat-details">
+                            <img src="https://cdn.freebiesupply.com/logos/large/2x/era-4-logo-png-transparent.png" alt="chatbot-img">
+                            <div class="response-content">
+                                <p>${xhr.responseText}</p>
+                            </div>
                         </div>
-                    </div>
-                </div>`;
+                    </div>`;
     
-                const animationDiv = chatContainer.querySelector(".typing-animation:last-child").parentNode;
-                animationDiv.outerHTML = responseHtml;
-                chatContainer.scrollTop = chatContainer.scrollHeight;
+                    const animationDiv = chatContainer.querySelector(".typing-animation:last-child").parentNode;
+                    animationDiv.outerHTML = responseHtml;
+                    chatContainer.scrollTop = chatContainer.scrollHeight;
+                } else {
+                    console.error(`Error in AJAX request: Status ${xhr.status}, ${xhr.statusText}`);
+                    // Log additional details if needed
+                    console.log(xhr.responseText);  // Log the response for more information
+                }
             }
         };
         xhr.send();
-    };
+    };    
     
 
     const handleOutgoingChat = () => {

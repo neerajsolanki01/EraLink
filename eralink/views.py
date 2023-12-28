@@ -20,16 +20,22 @@ def login(request):
 #     # return HttpResponse(article_id)
 #     return render(requests, 'blog/index.html', {'article_id': articl
 
+
 def getResponse(request):
-    # Example usage
-    data_file_paths = [
-        'eralink\\BrainData\\physics-a-level-definitions.txt',
-        'eralink\\BrainData\\qa_data.txt',
-        'eralink\\BrainData\\gk_que.txt',
-        'eralink\\BrainData\\interesting.txt',
-        # 'additional-file.txt',
-        # Add more file paths here
-    ]
-    userMessage = request.GET.get('userMessage')
-    response = chatbot_response(userMessage, data_file_paths)
-    return HttpResponse(response)
+    try:
+        data_file_paths = [
+            'eralink\\BrainData\\physics-a-level-definitions.txt',
+            'eralink\\BrainData\\qa_data.txt',
+            'eralink\\BrainData\\gk_que.txt',
+            'eralink\\BrainData\\interesting.txt',
+            # 'additional-file.txt',
+            # Add more file paths here
+        ]
+        userMessage = request.GET.get('userMessage')
+        response = chatbot_response(userMessage, data_file_paths)
+        return HttpResponse(response)
+    except Exception as e:
+        # Log the exception details
+        print(f"Error in getResponse: {e}")
+        # You may want to log to a file or use Django's logging framework
+        return HttpResponse("Internal Server Error", status=500)
