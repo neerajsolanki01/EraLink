@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
         // Perform an AJAX request to get a response from the server
         const xhr = new XMLHttpRequest();
-        xhr.open('GET', '/getResponse?userMessage=' + userText, true);
+        xhr.open('GET', 'getResponse?userMessage=' + userText, true);
         xhr.onreadystatechange = function () {
             if (xhr.readyState === 4 && xhr.status === 200) {
                 const responseHtml = `<div class="chat-content">
