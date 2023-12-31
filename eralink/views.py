@@ -15,6 +15,9 @@ def chatbot(request):
 def login(request):
     return render(request, 'login.html')
 
+def about(request):
+    return render(request, 'about.html')
+
 # def article(requests, article_id):
 #     # http://127.0.0.1:8000/blog/article/2
 #     # return HttpResponse(article_id)
