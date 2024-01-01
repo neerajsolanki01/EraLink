@@ -82,7 +82,21 @@ body {
     color: white;
     margin: 10px;
   }
-  
+  @media screen and (max-width : 768px) {
+    .about-section {
+      font-size: small;
+      text-align: center;
+      background-color: black;
+      margin-top: -5px;
+    }
+    .about-section h1{
+      color: rebeccapurple;
+      margin-bottom: 40px;
+    }
+    .about-section h3, h4{
+      color: white;
+      margin: 10px;
+  }}
   @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
   
   * {
